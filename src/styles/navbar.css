@@ -1,0 +1,28 @@
+.navbar-container {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background: rgb(102, 198, 211);
+    color: white;
+    font-weight: 700;
+    height: 4rem;
+}
+
+.nav-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 15%;
+    font-size: 24px;
+}
+
+.nav-links-container{
+    display: flex;
+    justify-content: start;
+}
+
+.nav-links {
+    margin-right: 15%;
+    font-size:16px;
+
+}
